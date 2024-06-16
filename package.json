@@ -1,0 +1,22 @@
+{
+  "name": "dailycoding",
+  "version": "1.0.0",
+  "description": "",
+  "main": "100. Same Tree.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankitsaini345/DailyCoding.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ankitsaini345/DailyCoding/issues"
+  },
+  "homepage": "https://github.com/ankitsaini345/DailyCoding#readme",
+  "dependencies": {
+    "datastructures-js": "^13.0.0"
+  }
+}
